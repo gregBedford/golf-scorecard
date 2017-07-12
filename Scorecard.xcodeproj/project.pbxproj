@@ -15,6 +15,7 @@
 		CE842F681F15A4410008EFFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE842F661F15A4410008EFFD /* LaunchScreen.storyboard */; };
 		CE842F731F15A4420008EFFD /* ScorecardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE842F721F15A4420008EFFD /* ScorecardTests.swift */; };
 		CE842F7E1F15A4420008EFFD /* ScorecardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE842F7D1F15A4420008EFFD /* ScorecardUITests.swift */; };
+		CE842F8C1F15AE5F0008EFFD /* RootPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE842F8B1F15AE5F0008EFFD /* RootPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CE842F791F15A4420008EFFD /* ScorecardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScorecardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE842F7D1F15A4420008EFFD /* ScorecardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScorecardUITests.swift; sourceTree = "<group>"; };
 		CE842F7F1F15A4420008EFFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE842F8B1F15AE5F0008EFFD /* RootPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CE842F5A1F15A4410008EFFD /* AppDelegate.swift */,
 				CE842F5C1F15A4410008EFFD /* ViewController.swift */,
 				CE842F5E1F15A4410008EFFD /* Main.storyboard */,
+				CE842F8B1F15AE5F0008EFFD /* RootPageViewController.swift */,
 				CE842F641F15A4410008EFFD /* Assets.xcassets */,
 				CE842F661F15A4410008EFFD /* LaunchScreen.storyboard */,
 				CE842F691F15A4410008EFFD /* Info.plist */,
@@ -268,6 +271,7 @@
 				CE842F631F15A4410008EFFD /* Scorecard.xcdatamodeld in Sources */,
 				CE842F5D1F15A4410008EFFD /* ViewController.swift in Sources */,
 				CE842F5B1F15A4410008EFFD /* AppDelegate.swift in Sources */,
+				CE842F8C1F15AE5F0008EFFD /* RootPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
